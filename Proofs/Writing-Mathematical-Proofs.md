@@ -1,6 +1,6 @@
 # WRITING MATHEMATICAL PROOFS
 
-Starting with Linear Algebra, mathematics courses at Hamilton often require students to prove mathematical results using formalized logic. This can occasionally be a difficult process, because the same statement can be proven using many different approaches, and each student’s proof will be written slightly differently. What is the correct way to write a mathematical proof? The answer is a matter of taste (taste you will acquire with practice...lots of practice), but there are universal do’s and don’t’s and good places to get started with your proofs. This handout seeks to clarify the proof-writing process by providing you with some tips for where to begin, how to format your proofs to please your professors, and how to write the most concise, grammatically correct proofs possible.
+Starting with Linear Algebra, mathematics courses at [Hamilton](https://www.hamilton.edu) often require students to prove mathematical results using formalized logic. This can occasionally be a difficult process, because the same statement can be proven using many different approaches, and each student’s proof will be written slightly differently. What is the correct way to write a mathematical proof? The answer is a matter of taste (taste you will acquire with practice...lots of practice), but there are universal do’s and don’t’s and good places to get started with your proofs. This handout seeks to clarify the proof-writing process by providing you with some tips for where to begin, how to format your proofs to please your professors, and how to write the most concise, grammatically correct proofs possible.
 
 ## The Proof-Writing Process
 
@@ -32,13 +32,13 @@ To prove a statement of the form, “∀*x* ∈ _A, p_(_x_) ⇒**[** _q_(_x_) �
 
 To **disprove** a universally quantified statement, it suffices to find **one, specific** counterexample. The simpler the counterexample, the better! <u>Do not try to find a general argument for why the statement is false</u>**.**
 
-# Grammatical Rules for Writing Proofs
+## Grammatical Rules for Writing Proofs
 
 1. **ALWAYS** write in complete, grammatically correct sentences, just as you would in any other subject (this means that all the grammar rules you learned in English class still apply here). <u>A sentence must begin with a</u> <u>WORD, not with mathematical notation</u> (such as a numeral, a variable or a logical symbol). This cannot be stressed enough – every sentence in a proof must begin with a word, not a symbol! <u>A sentence must end with</u> <u>PUNCTUATION</u>, even if the sentence ends with a string of mathematical notation. Even chunks of mathematical notation must be grammatically correct, which means that mathematical symbols must fit into the logical flow of your sentences. To test this, try reading your statements involving mathematical symbols out loud. _Example:_ “Since x is a vector → x has a magnitude.” Read this sentence out loud, replacing the implication symbol with what it stands for – does it make sense? This sentence construction is a common error; the hypothesis and conclusion of an implication <u>must be independent statements</u>. In this case, the word since is redundant.
 2. Do not ‘wrap’ mathematical expressions on two or more lines inside your prose; instead, separate long mathematical expressions from the text on indented lines (as you would with long quotations in an essay), with equals signs /inequality signs lined up vertically. _Example:_
    “….Note that 2x = x² – 4x → 2 = x – 4 → x = 6.”
 
-This is incorrect! Do not wrap mathematical statements around two lines. Instead, do this: “…Note that 2x = x² – 4x → 2 = x – 4 → 6 = x.”
+   This is incorrect! Do not wrap mathematical statements around two lines. Instead, do this: “…Note that 2x = x² – 4x → 2 = x – 4 → 6 = x.”
 
 3. Some professors do not allow you to use the symbols ∃ and ∀ in formal writing (unless the question specifically asks for symbolic logic notation). Make sure to ask your professor if there is any doubt!
 4. Don't 'pad' your answers; good mathematical writing is both thorough and <u>concise</u>. Ideally, your proof should contain only necessary statements and the logical steps between them. This includes wishy-washy
